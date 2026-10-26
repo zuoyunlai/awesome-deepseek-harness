@@ -779,7 +779,7 @@ dsh plugin --profile web add "github:owner/repo#ref"
 - [weibaohui/dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) - 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组随机抽取，token 用量决定烟花的大小、高度与绚烂程度。
 - [weibaohui/dsh-kite](https://github.com/weibaohui/dsh-kite) - 随 agent 活动变化的动画风筝，支持配置风筝骨架、图案和配色，以及使用自定义图片贴图。
 - [weibaohui/dsh-ambient](https://github.com/weibaohui/dsh-ambient) - 环境音播放器：提供本地声音库、顺序／随机／单曲循环／间歇播放、定时关闭，以及可选的 AI 辅助音频下载。
-- [dsh-pet-plugin](https://github.com/zuoyunlai/dsh-pet-plugin) - DSH 窗口里的超写实桌宠：四个形象带表情立绘与跳舞、撩发、走路三套动作帧，按活跃时段主动说话（可选 edge-tts 神经音色），五种特效，小输入框通过一次性宿主模型调用回话、不写进会话。
+- [dsh-pet-plugin](https://github.com/zuoyunlai/dsh-pet-plugin) - DSH 窗口里的超写实桌宠：五个形象（薇/绯/靛/银/鲸鱼女仆）各有五张表情立绘，跳舞、撩发、走路以 24fps VP9 alpha 视频播放，另有一条 10 秒单镜头舞台片段，按活跃时段主动说话（可选 edge-tts 神经音色），五种特效，小输入框通过一次性宿主模型调用回话、不写进会话。
 
 
 ## Plugin Ecosystem & Development
